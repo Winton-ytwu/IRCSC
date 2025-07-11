@@ -100,11 +100,4 @@ This script visualizes the output from the previous step, generating the final c
 python plot_final_results.py --result_file ./results/final_evaluation_results_k4.json --k_value 4
 ```
 
-### Expected Results
-
-After running the complete workflow, you will get a comparison plot similar to this, saved in the `results/` directory.
-
-*(请在此处插入您项目最终生成的对比图)*
-*(Please insert your final comparison plot here)*
-![Final Results Plot](https://i.imgur.com/uQfW25C.png)
 
