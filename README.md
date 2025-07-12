@@ -43,6 +43,7 @@ The repository is organized as follows:
 | `run_final_evaluation.py` | Runs the core comparison between IRCSC and TD-JSCC across all SNRs. |
 | `plot_final_results.py` | Generates the final plots comparing the performance and transmission rates. |
 | `requirements.txt` | A list of Python packages required to run the project. |
+| `run_ablation_study.py`|Runs an ablation study to verify the effectiveness of the importance-aware feature selection. |
 
 ### Installation
 
